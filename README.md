@@ -1,7 +1,7 @@
 # Brain Tumor Detection
 
 This project is aimed at detecting brain tumors using a convolutional neural network (CNN) based on the VGG19 architecture. The model is integrated into a Flask web application to provide a user-friendly interface for uploading and analyzing MRI images.
-
+![alt text](https://github.com/shikharrajat/BrainTumor-Detection/blob/main/demo_image%20.png)
 ## Table of Contents
 
 - [Introduction](#introduction)
